@@ -1,4 +1,4 @@
-# Basic Info Site
+# Basic Informational Site
 
 ## Description
 
