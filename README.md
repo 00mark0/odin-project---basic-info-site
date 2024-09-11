@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a basic informational website built using HTML and styled with Tailwind CSS. It includes multiple pages such as a home page, an about page, a contact page, and a 404 error page. The website is served using a Node.js server.
+This project is a basic informational website built using HTML and styled with Tailwind CSS. It includes multiple pages such as a home page, an about page, a contact page, and a 404 error page. The website is served using Express.
 
 ## Features
 
